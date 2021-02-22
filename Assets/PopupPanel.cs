@@ -7,5 +7,6 @@ public class PopupPanel : MonoBehaviour
     public void Unset()
     {
         gameObject.SetActive(false);
+
     }
 }
