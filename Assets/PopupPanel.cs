@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PopupPanel : MonoBehaviour
 {
+    int cnt;
     public void Unset()
     {
         gameObject.SetActive(false);
